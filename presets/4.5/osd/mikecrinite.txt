@@ -1,15 +1,15 @@
-#$ TITLE: MikeTheBike
+#$ TITLE: mikecrinite standard OSD config
+#$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: 
-#$ AUTHOR: Mike Crinite (MikeTheBike)
+#$ KEYWORDS: OSD, freestyle
+#$ AUTHOR: miekcrinite
 
-#$ PARSER: MARKED
-#$ DESCRIPTION: Yaros FPV HD OSD Settings
+#$ DESCRIPTION: I lay out my OSD the same way on every rig, so I always know where to find things. 
 
-#$ INCLUDE: presets/4.4/osd/defaults.txt
+# Common settings
 
 set osd_units = METRIC
 set osd_warn_bitmask = 57343
@@ -114,7 +114,7 @@ set osd_profile = 1
 set osd_profile_1_name = -
 set osd_profile_2_name = -
 set osd_profile_3_name = -
-set osd_gps_sats_show_pdop = OFF
+#set osd_gps_sats_show_pdop = OFF
 set osd_displayport_device = MAX7456
 set osd_rcchannels = -1,-1,-1,-1
 set osd_camera_frame_width = 24
