@@ -1,0 +1,35 @@
+#$ TITLE: MikeTheBike
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: 
+#$ AUTHOR: Mike Crinite (MikeTheBike)
+
+#$ PARSER: MARKED
+#$ DESCRIPTION: Yaros FPV HD OSD Settings
+
+#$ INCLUDE: presets/4.4/osd/defaults.txt
+
+set osd_avg_cell_voltage_pos = 6690
+set osd_battery_usage_pos = 34947
+set osd_craft_name_pos = 21
+set osd_crosshairs_pos = 345
+set osd_current_pos = 2529
+set osd_disarmed_pos = 6614
+set osd_flymode_pos = 3630
+set osd_link_quality_pos = 7692
+set osd_mah_drawn_pos = 6242
+set osd_menu_background = TRANSPARENT
+set osd_pilot_name_pos = 3118
+set osd_rate_profile_name_pos = 2103
+set osd_rssi_dbm_pos = 3565
+set osd_stat_avg_cell_value = OFF
+set osd_stat_bitmask = 2297448
+set osd_throttle_pos = 2498
+set osd_tim1 = 2560
+set osd_tim2 = 2561
+set osd_tim_1_pos = 33
+set osd_tim_2_pos = 6210
+set osd_vbat_pos = 2562
+set osd_warnings_pos = 6548
