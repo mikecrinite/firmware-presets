@@ -187,7 +187,7 @@
       "Jye Smith",
       "KMfpv",
       "LeadFingers",
-      "Mike Crinite (MikeTheBike)",
+      "miekcrinite",
       "MinChan Kim",
       "mouseFPV",
       "MrAlucardDante",
@@ -4431,20 +4431,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/osd/mikethebike_analog.txt",
-      "hash": "95a5665bf1168868ebfd9f67c6a3f6ef04d38d545dd9efc3119540834aeee4b7",
-      "title": "MikeTheBike",
-      "firmware_version": [
-        "4.4",
-        "4.5"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [],
-      "author": "Mike Crinite (MikeTheBike)",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.4/osd/QuadMcFly_DJI_HD_OSD.txt",
       "hash": "1bdc587fd4223c8526a7954c0b44e7bfc98a8b9d556de729d24376d06e29f3be",
       "title": "QuadMcFly - DJI HD OSD",
@@ -6539,6 +6525,24 @@
         "MtnSurf"
       ],
       "author": "bensonk",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/osd/mikecrinite.txt",
+      "hash": "d835471c9b5fd500c32407029e03431af8edb6a53e9323fd0ff038bc206a2820",
+      "title": "mikecrinite standard OSD config",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "OSD",
+        "freestyle"
+      ],
+      "author": "miekcrinite",
       "priority": 0
     },
     {
